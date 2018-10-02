@@ -1,6 +1,6 @@
 # Template
 
-Fork this repository in order to solve task.
+Fork this repository in order to solve task
 
 ## Installation
 
