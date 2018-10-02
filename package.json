@@ -2,7 +2,7 @@
   "name": "redux-basics",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://github.com/VivereMemento/js-school-redux-basics-tmpl",
+  "homepage" : "https://viverememento.github.io/js-school-redux-basics-tmpl/",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
